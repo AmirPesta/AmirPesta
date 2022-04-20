@@ -2,7 +2,7 @@
 - 👀 I’m interested in... QA.
 - 🌱 I’m currently learning... automation QA.
 - 💞️ I’m looking to collaborate on... testing projects.
-- 📫 How to reach me ...
+- 📫 How to reach me... amir.pestalic@gmail.com
 
 <!---
 AmirPesta/AmirPesta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
